@@ -1,0 +1,148 @@
+
+/*
+	
+*/
+	body{
+		margin: 0;
+		padding: 0;
+		font-family: Helvetica;
+		width: 100%;
+	}
+	#container{
+		width:97.5%;
+		margin: 0 ;
+		padding-left: 30px;
+	}
+	.logo {
+		width:  20%;
+		float: left;
+	}
+	.nav {
+		float: left;
+		width: 77%;
+	}
+	nav {
+		position: absolute;
+		background-color: rgba(0, 0, 0, 0.3);
+		width: 75%;
+		height: 80px;
+		line-height: 60px;
+	}
+	nav li {
+		display: inline;
+		padding: 0 65px;
+	}
+	nav a{
+		text-decoration: none;
+		height: 40px;
+	}
+	nav a:hover{
+		color: green;
+	}
+	section{
+		height: auto;
+		padding-top: 50px;
+		width: 98%;
+		margin: 0 ;
+
+	}
+	#posts{
+		margin-bottom: 2em !important;
+		
+		margin-top: -20px;
+	}
+	section h1{
+		text-align: center;
+	}
+
+	#posts {
+
+	}
+
+	#posts p {
+		text-align: justify;
+	}
+
+	#home img {
+		width: 99%;
+		height: auto;
+		
+	}
+	.post1 img {
+		width: 48%;
+		height: auto;
+		float: left;
+		margin-right: 2%;
+	}
+	.post1 p {
+		width: 50%;
+		float: left;
+		margin-top: -1px;
+	}
+	.post1 {
+		width: 57%;
+		float: left;
+		padding-right: 30px;
+		
+	}
+	.post2 {
+		width: 39%;
+		float: left;
+		text-align: justify;
+		margin-top: -16px;
+	}
+
+	/* new posts attributes 
+	*/
+	.post3 {
+		width: 99%;
+		float: left;
+		padding-right: 20px;
+		
+		margin-top: 30px;
+		margin-bottom: 30px;
+	}
+/*	.post2 {
+		width: 37%;
+		float: left;
+		text-align: justify;
+		margin-top: -16px;
+	}*/
+	
+	.post3 img {
+		width: 20%;
+		height: auto;
+		float: left;
+		margin-right: 2%;
+	}
+	.post3 p {
+		width: 78%;
+		float: left;
+		margin-top: -1px;
+	}
+
+	footer {
+		width: 98%;
+		background-color:rgba(0, 0, 0, 0.3);
+		color: white;
+		height: 70px;
+		line-height: 70px;
+		clear: both;
+		margin: 0;
+	}
+
+	footer ul {
+		
+		display: inline;
+	}
+	footer li{
+		display:inline;
+		padding-right:150px;
+		text-align: center; 
+
+	}
+	footer ul a {
+		text-decoration: none;
+			}
+
+		
